@@ -4,6 +4,7 @@
 **Tharun Rathod** · B.Tech Electrical Engineering (2027) · IIT Roorkee  
 Independent Research · 2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19885744.svg)](https://doi.org/10.5281/zenodo.19885744)
 ---
 
 ## What This Paper Is About
