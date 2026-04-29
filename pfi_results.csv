@@ -1,0 +1,42 @@
+concept,pie_root,pie_class,fr_form,fr_pfi,hi_form,hi_pfi,en_form,en_pfi,class_tag
+father,*ph2ter,p,père,1.0,pita [skt],1.0,father,0.0,p
+foot,*pods,p,pied,1.0,pada [skt],1.0,foot,0.0,p
+five,*penkwe,p,cinq,0.5,pānch,1.0,five,0.0,p
+full,*pleh1-,p,plein,1.0,pūrā,1.0,full,0.0,p
+feed / pasture,*peh2-,p,pâture,1.0,pālnā,1.0,feed,0.0,p
+before / for,*pro-,p,pour / pro-,1.0,pra- [skt],1.0,fore,0.5,p
+tooth,*dant-,d,dent,1.0,dant,1.0,tooth,0.0,d
+ten,*dekmt,d,dix,1.0,das,1.0,ten,0.0,d
+two,*dwoh1,d,deux,1.0,do,1.0,two,0.0,d
+door,*dwer-,d,porte,1.0,dwār,1.0,door,1.0,d
+do / put,*dheh1-,d,faire,0.5,dharnā,1.0,do,1.0,d
+you (singular),*tuh2,t,tu,1.0,tu,1.0,thou,0.0,t
+three,*treyes,t,trois,1.0,teen,1.0,three,0.0,t
+mother,*mater,m,mère,1.0,mā,1.0,mother,1.0,m
+mind,*men-,m,mental,1.0,man,1.0,mind,1.0,m
+great / much,*meg-,m,majeur,1.0,mahā [skt],1.0,much,1.0,m
+moon / month,*meh1ns-,m,mois,1.0,māh,1.0,moon,1.0,m
+name,*nomen,n,nom,1.0,naam,1.0,name,1.0,n
+new,*newos,n,nouveau,1.0,nayā,1.0,new,1.0,n
+nose,*nas-,n,nez,1.0,naak,1.0,nose,1.0,n
+not / negation,*ne-,n,ne,1.0,nahī,1.0,not,1.0,n
+nine,*h1newn,n,neuf,1.0,nau,1.0,nine,1.0,n
+naked,*nogw-,n,nu,0.5,nangā,1.0,naked,1.0,n
+seven,*septm,s,sept,1.0,sāt,1.0,seven,1.0,s
+sun,*sewol-,s,soleil,1.0,sūraj,1.0,sun,1.0,s
+self,*swe-,s,se / soi,1.0,apnā [skt sva],1.0,self,1.0,s
+who,*kwo-,k,qui,1.0,kaun,1.0,who,0.5,k
+four,*kwetwor-,k,quatre,1.0,chār,0.5,four,0.0,k
+cow,*gwows,k,vache,0.5,gāy,1.0,cow,0.5,k
+birth / kin,*gen-,k,naissance,1.0,janma,1.0,kin,1.0,k
+know,*gno-,k,connaître,0.5,jānnā,0.5,know,1.0,k
+kind / gender,*gen-,k,genre,1.0,jāt,0.5,kind,1.0,k
+brother,*bhrater,b,frère,0.5,bhāī,1.0,brother,0.5,b
+one,*oyno-,v,un,1.0,ek,1.0,one,1.0,v
+eight,*okto,v,huit,1.0,āṭh,1.0,eight,1.0,v
+I,*eg-,v,je,1.0,main,0.5,I,1.0,v
+up / over,*uper-,v,sur,1.0,upar,1.0,over,1.0,v
+age / ever,*aywo-,v,âge,1.0,āyū,1.0,ever,1.0,v
+eye,*okw-,v,œil,0.5,ānkh,1.0,eye,0.5,v
+our,*nes-,v,notre,1.0,hamārā,0.5,our,1.0,v
+wind,*weyh-,v,vent,1.0,vāyu [skt],1.0,wind,1.0,v
